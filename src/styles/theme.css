@@ -1,0 +1,95 @@
+:root {
+  /* Astral — #357eac */
+  --astral-50:  #eaf4f9;   /* lightest tint — backgrounds, badges */
+  --astral-100: #c8e6f3;   /* hover tints */
+  --astral-200: #9dd4e9;   /* light accents, borders */
+  --astral-300: #6dbfd9;   /* icons, dividers */
+  --astral-400: #46aac9;   /* light buttons */
+  --astral-500: #357eac;   /* base — primary color */
+  --astral-600: #2b6a92;   /* hover */
+  --astral-700: #1f5272;   /* pressed / deep accents */
+  --astral-800: #143b52;   /* dark text on light bg */
+  --astral-900: #0b2435;   /* darkest — headings */
+
+  /* Java — #26c8b4 */
+  --java-50:  #e6faf8;   /* lightest tint — backgrounds, badges */
+  --java-100: #b8f1ea;   /* hover tints */
+  --java-200: #83e6da;   /* light accents, borders */
+  --java-300: #4dd9c8;   /* icons, dividers */
+  --java-400: #2ecfbd;   /* light buttons */
+  --java-500: #26c8b4;   /* base — primary color */
+  --java-600: #1da899;   /* hover */
+  --java-700: #147d72;   /* pressed / deep accents */
+  --java-800: #0c554d;   /* dark text on light bg */
+  --java-900: #073530;   /* darkest — headings */
+
+  /* Daisy Bush — #4824a0 */
+  --daisy-bush-50:  #f0ebfc;   /* lightest tint — backgrounds, badges */
+  --daisy-bush-100: #d8cbf6;   /* hover tints */
+  --daisy-bush-200: #bba6ef;   /* light accents, borders */
+  --daisy-bush-300: #9577e5;   /* icons, dividers */
+  --daisy-bush-400: #6e4dce;   /* light buttons */
+  --daisy-bush-500: #4824a0;   /* base — primary color */
+  --daisy-bush-600: #3c1e88;   /* hover */
+  --daisy-bush-700: #2d1668;   /* pressed / deep accents */
+  --daisy-bush-800: #1e0e48;   /* dark text on light bg */
+  --daisy-bush-900: #10082a;   /* darkest — headings */
+
+  /* Gigas — #4240a3 */
+  --gigas-50:  #eeedf9;   /* lightest tint — backgrounds, badges */
+  --gigas-100: #d2d0f0;   /* hover tints */
+  --gigas-200: #b0ade4;   /* light accents, borders */
+  --gigas-300: #8280d3;   /* icons, dividers */
+  --gigas-400: #6260bc;   /* light buttons */
+  --gigas-500: #4240a3;   /* base — primary color */
+  --gigas-600: #37358a;   /* hover */
+  --gigas-700: #28276a;   /* pressed / deep accents */
+  --gigas-800: #1a194a;   /* dark text on light bg */
+  --gigas-900: #0e0d2c;   /* darkest — headings */
+}
+
+@theme inline {
+  --color-astral-50:  var(--astral-50);
+  --color-astral-100: var(--astral-100);
+  --color-astral-200: var(--astral-200);
+  --color-astral-300: var(--astral-300);
+  --color-astral-400: var(--astral-400);
+  --color-astral-500: var(--astral-500);
+  --color-astral-600: var(--astral-600);
+  --color-astral-700: var(--astral-700);
+  --color-astral-800: var(--astral-800);
+  --color-astral-900: var(--astral-900);
+
+  --color-java-50:  var(--java-50);
+  --color-java-100: var(--java-100);
+  --color-java-200: var(--java-200);
+  --color-java-300: var(--java-300);
+  --color-java-400: var(--java-400);
+  --color-java-500: var(--java-500);
+  --color-java-600: var(--java-600);
+  --color-java-700: var(--java-700);
+  --color-java-800: var(--java-800);
+  --color-java-900: var(--java-900);
+
+  --color-daisy-bush-50:  var(--daisy-bush-50);
+  --color-daisy-bush-100: var(--daisy-bush-100);
+  --color-daisy-bush-200: var(--daisy-bush-200);
+  --color-daisy-bush-300: var(--daisy-bush-300);
+  --color-daisy-bush-400: var(--daisy-bush-400);
+  --color-daisy-bush-500: var(--daisy-bush-500);
+  --color-daisy-bush-600: var(--daisy-bush-600);
+  --color-daisy-bush-700: var(--daisy-bush-700);
+  --color-daisy-bush-800: var(--daisy-bush-800);
+  --color-daisy-bush-900: var(--daisy-bush-900);
+
+  --color-gigas-50:  var(--gigas-50);
+  --color-gigas-100: var(--gigas-100);
+  --color-gigas-200: var(--gigas-200);
+  --color-gigas-300: var(--gigas-300);
+  --color-gigas-400: var(--gigas-400);
+  --color-gigas-500: var(--gigas-500);
+  --color-gigas-600: var(--gigas-600);
+  --color-gigas-700: var(--gigas-700);
+  --color-gigas-800: var(--gigas-800);
+  --color-gigas-900: var(--gigas-900);
+}
